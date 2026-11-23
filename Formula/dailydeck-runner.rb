@@ -1,9 +1,9 @@
 class DailydeckRunner < Formula
   desc "Supervised local task Runner for DailyDeck"
   homepage "https://www.dailydeck.ai"
-  url "https://github.com/radkode/homebrew-dailydeck/releases/download/v0.2.70/dailydeck-runner-0.2.70-darwin-arm64-9856b32d573d.tar.gz"
-  version "0.2.70"
-  sha256 "a03925ed3b605fe6fd524b941bfc2d8109f2cfb3ebe417abf302ec0f285ce36d"
+  url "https://github.com/radkode/homebrew-dailydeck/releases/download/v0.2.81/dailydeck-runner-0.2.81-darwin-arm64-870368147f43.tar.gz"
+  version "0.2.81"
+  sha256 "98d891f27601ab12e0f872697bbcd8431e6931066105efaf6d04627e0fc1bbd7"
 
   depends_on arch: :arm64
   depends_on macos: :sonoma
